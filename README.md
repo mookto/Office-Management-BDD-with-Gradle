@@ -63,10 +63,10 @@ Before running the project, ensure you have the following installed:
   gradle test --tests org.gradle.SomeTest.someSpecificFeature
   ```
 
-## Generating Allure Report
+## Generating Cucumber HTML Report
 - After running all tests, run the mentioned commands,
-  ```sh
-  allure serve allure-results
+ Check the target folder to see the HTML report
+the path ***target/cucumber-reports/cucumber.html
   ```
 
 
@@ -128,11 +128,11 @@ Before running the project, ensure you have the following installed:
 
 ## Future Improvements
 - Implement CI/CD integration
-- Enhance reporting with **Allure Reports**
+- Enhance reporting with **HTML Reports**
 
 
 ## Contributors
-- Mahedi Hasan
+- MD Mahedi Hasan
 
 
 
