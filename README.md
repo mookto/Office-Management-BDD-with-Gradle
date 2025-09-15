@@ -52,7 +52,6 @@ Before running the project, ensure you have the following installed:
    git clone https://github.com/mookto/Office-Management-BDD-with-Gradle.git
    ```
 
-   ```
 ## Running Tests
 - Run all tests:
   ```sh
@@ -65,9 +64,8 @@ Before running the project, ensure you have the following installed:
 
 ## Generating Cucumber HTML Report
 - After running all tests, run the mentioned commands,
- Check the target folder to see the HTML report
-the path ***target/cucumber-reports/cucumber.html
-  ```
+ - Check the target folder to see the HTML report
+- the path ** target/cucumber-reports/cucumber.html**
 
 
 ## Test Cases Overview
